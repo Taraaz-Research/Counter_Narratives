@@ -1,0 +1,16 @@
+twint -s Muslimsreportstuff -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/Muslimsreportstuff.csv --csv
+twint -s MuslimsAreSpeakingOut -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/MuslimsAreSpeakingOut.csv --csv
+twint -s CanYouHearUsNow -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/CanYouHearUsNow.csv --csv
+twint -s Islamophobin -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/Islamophobin.csv --csv
+twint -s mymosque -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/mymosque.csv --csv
+twint -s UnapologeticallyMuslim -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/UnapologeticallyMuslim.csv --csv
+twint -s WhatMuslimsDo -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/WhatMuslimsDo.csv --csv
+twint -s WhatMuslimsDo -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/WhatMuslimsDo.csv --csv
+twint -s ourthreewinners -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/ourthreewinners.csv --csv
+twint -s MuslimsForLoyalty -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/MuslimsForLoyalty.csv --csv
+twint -s MuslimsForPeace -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/MuslimsForPeace.csv --csv
+twint -s IStandWithIlhan -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/IStandWithIlhan.csv --csv
+twint -s MyPalestinianSitty -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/MyPalestinianSitty.csv --csv
+twint -s YouAintNoMuslimBruv -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/YouAintNoMuslimBruv.csv --csv
+twint -s IMarchWithZahra -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/IMarchWithZahra.csv --csv
+twint -s AskAMuslim -o /Users/royapakzad/Applications/OneDrive/Code/counter_narratives_hashtags/AskAMuslim.csv --csv
